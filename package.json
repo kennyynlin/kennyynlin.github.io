@@ -1,0 +1,14 @@
+{
+  "name": "kennyynlin.github.io",
+  "version": "1.0.0",
+  "description": "personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kennyynlin",
+  "license": "ISC",
+  "dependencies": {
+    "vanta": "^0.5.24"
+  }
+}
